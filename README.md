@@ -238,15 +238,19 @@ Helps business teams focus retention efforts
 │   ├── telco_clean.csv
 │   ├── top50_risky_customers.csv
 │
+
+
 ├── powerbi/
 │   ├── churn_dashboard.pbix
 │   ├── dashboard_screenshots/
 │
+
 ├── python/
 │   ├── churn_model.ipynb
 │   ├── churn_xgb_model.pkl
 │   ├── train.py
 │
+
 ├── sql/
 │   ├── schema.sql
 │   ├── cleaning_queries.sql
