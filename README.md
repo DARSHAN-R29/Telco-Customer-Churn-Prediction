@@ -41,6 +41,8 @@ It integrates SQL (ETL), Power BI (Descriptive Analytics), and Python (Predictiv
         │ - Load predictions               │
         │ - High-risk customer dashboard   │
         └──────────────────────────────────┘
+     
+
 
 📊 Dataset
 
